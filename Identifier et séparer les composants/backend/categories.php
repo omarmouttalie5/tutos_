@@ -10,6 +10,9 @@ $categories = [
 
 // 3. Convertir le tableau PHP en JSON et l'afficher
 echo json_encode($categories);
+
+
+
 ?>
 
 
